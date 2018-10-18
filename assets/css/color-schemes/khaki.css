@@ -1,0 +1,124 @@
+/*  - Khaki #B6AF55 */
+
+.top-header .logo-block a > span::before,
+.menu-block .ownavigation .navbar-header .navbar-brand > span::before,
+.slider-section .slide-border,
+.section-header::before, 
+.section-header::after,
+.section-header h3::before,
+.srv-box:hover,
+.build-content > a, 
+.build-content > a.purcase-now:hover,
+.build-box:hover > i,
+.counter-section,
+.type-post .entry-cover .post-meta > a,
+.type-post .entry-content > a:hover,
+.pricing-box .price-box > h4,
+.pricing-box .price-title::before,
+.pricing-box:hover .price-title,
+.pricing-box > a:hover,
+.team-box > h3,
+.team-box > ul > li > a:hover,
+.top-footer .logo-block > h3 > a::after,
+.top-footer .widget-title::before,
+.top-footer .contact-tab .nav-tabs > li > a:focus, 
+.top-footer .contact-tab .nav-tabs > li > a:hover, 
+.top-footer .contact-tab .nav-tabs > li.active > a, 
+.top-footer .contact-tab .nav-tabs > li.active > a:focus, 
+.top-footer .contact-tab .nav-tabs > li.active > a:hover,
+.team-carousel.owl-theme .owl-controls .owl-nav [class*="owl-"]:hover,
+.ow-pagination ul li a:focus, 
+.ow-pagination ul li a:hover,
+.widget-area .tagcloud a,
+article.type-post .tags-share-block .tags > a:hover,
+.comment-form input[type="submit"] {
+	background-color: #B6AF55;
+}
+.top-header .top-right > div > a,
+.top-header .top-right > span > a:hover,
+.top-header .top-right > ul > li > a:hover,
+.slider-section .slide-title > span,
+.features-box > i,
+.gallery-box .gallery-detail > a:hover,
+.srv-box > i,
+.srv-box:hover > a,
+.build-content .build-title > h3 > span,
+.type-post .entry-header .entry-meta > span > a:hover,
+.type-post .entry-header .entry-title a:hover,
+.pricing-box .price-title > h3,
+.pricing-box > a,
+.top-footer .logo-block > ul > li > a:hover,
+.widget_categories ul li a::before,
+.widget_categories ul li a:hover,
+.widget-area .widget_recentposts .latest-content > h5 > a:hover,
+.widget-area .tagcloud a:hover,
+article.type-post .tags-share-block .share-block > a:hover,
+.comment-metadata a,
+.comment-form input[type="submit"]:hover,
+.features-box:hover > h3 {
+	color: #B6AF55;
+}
+.gallery-box .gallery-content::before,
+.type-post .entry-content > a,
+.pricing-box > a,
+.ow-pagination ul li a,
+.widget-area .tagcloud a:hover,
+article.type-post .about-author > i,
+.comment-form input[type="submit"]:hover {
+	border-color: #B6AF55;
+}
+.menu-block,
+.menu-block .ownavigation::before,
+.menu-block .ownavigation::after {
+	border-top-color: rgba(182,175,85,0.9);
+}
+.blog-carousel.owl-theme .owl-controls .owl-nav .owl-next:hover::after {
+	border-left-color: #B6AF55;
+}
+.blog-carousel.owl-theme .owl-controls .owl-nav .owl-prev:hover::after {
+	border-right-color: #B6AF55;
+}
+.footer-main {
+	border-top-color: #B6AF55;
+}
+
+/* - min-width: 992 */
+@media (min-width: 992px) {
+	.menu-block .ownavigation .navbar-nav li .dropdown-menu > li > a:hover {
+		color: #938902;
+	}
+	.menu-block .ownavigation .navbar-collapse::before,
+	.menu-block .ownavigation ul li > .dropdown-menu {
+		background-color: rgba(182,175,85,0.9);
+	}
+	.menu-block.navbar-fixed-top,
+	.menu-block.navbar-fixed-top .ownavigation ul li > .dropdown-menu {
+		background-color: rgb(182,175,85);
+	}
+}
+/* - max-width: 991 */
+@media (max-width: 991px) {
+	#slidepanel,
+	.menu-block.navbar-fixed-top {
+		border-bottom-color: #B6AF55;
+	}
+	.menu-block #slideit, 
+	.menu-block #closeit {
+		color: #B6AF55;
+	}
+	.menu-block.navbar-fixed-top {
+		background-color: #fff; 
+	}
+	.menu-block .ownavigation .navbar-toggle,
+	.menu-block .ownavigation .ddl-switch {
+		background-color: #B6AF55;
+	}
+	.menu-block .ownavigation .navbar-nav > .active > a, 
+	.menu-block .ownavigation .navbar-nav > .active > a:focus, 
+	.menu-block .ownavigation .navbar-nav > .active > a:hover, 
+	.menu-block .ownavigation .navbar-nav li:hover > a, 
+	.menu-block .ownavigation .navbar-nav li a:hover,
+	.menu-block .ownavigation .navbar-nav li .dropdown-menu > li > a:hover {
+		color: #B6AF55;
+	}
+}
