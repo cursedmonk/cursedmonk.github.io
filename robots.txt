@@ -5,4 +5,5 @@ Disallow: /assets
 Disallow:  /stop.html 
 Disallow: /style.css
 Disallow: /web.config
+Disallow: /index.html
 Sitemap: http://scorpion3d.com/sitemap.xml
